@@ -1,0 +1,15 @@
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\bin\Release\Settings.job
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\bin\Release\TgBot.exe.config
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\bin\Release\TgBot.exe
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\bin\Release\TgBot.pdb
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\bin\Release\ConvertApi.dll
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\bin\Release\Newtonsoft.Json.dll
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\bin\Release\System.Drawing.Common.dll
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\bin\Release\Telegram.Bot.dll
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\bin\Release\Newtonsoft.Json.xml
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\bin\Release\Telegram.Bot.xml
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\obj\Release\TgBot.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\obj\Release\TgBot.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\obj\Release\TgBot.csproj.CopyComplete
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\obj\Release\TgBot.exe
+C:\Users\Xiaomi\source\repos\TgBot\TgBot\obj\Release\TgBot.pdb
